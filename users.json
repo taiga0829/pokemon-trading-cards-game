@@ -1,0 +1,23 @@
+{
+    "taiga": {
+        "name": "taiga",
+        "money": 600,
+        "email": "taiga.mizutani829@gmail.com",
+        "password": "taiga829",
+        "cards": []
+    },
+    "hiroto": {
+        "name": "hiroto",
+        "money": 500,
+        "email": "hiroto.mizutani1031@gmail.com",
+        "password": "hiroto1031",
+        "cards": []
+    },
+    "admin": {
+        "name": "admin",
+        "money": 500,
+        "email": "taiga.mizutani829@gmail.com",
+        "password": "admin",
+        "cards": []
+    }
+}

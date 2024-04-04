@@ -1,0 +1,39 @@
+{
+    "parameter": {
+        "payload": "{\"type\":\"interactive_message\",\"actions\":[{\"name\":\"jpn\",\"type\":\"button\",\"value\":\"stop\"}],\"callback_id\":\"callback_button\",\"team\":{\"id\":\"T062EKWKWGH\",\"domain\":\"mizutani-labhq\"},\"channel\":{\"id\":\"C0621TQAA67\",\"name\":\"random\"},\"user\":{\"id\":\"U0621TQ84AX\",\"name\":\"taiga.mizutani829\"},\"action_ts\":\"1707424543.552677\",\"message_ts\":\"1707424541.002700\",\"attachment_id\":\"1\",\"token\":\"sqamGyFeX3wGDO8hd1xz24Tc\",\"is_app_unfurl\":false,\"enterprise\":null,\"is_enterprise_install\":false,\"response_url\":\"https:\\/\\/hooks.slack.com\\/actions\\/T062EKWKWGH\\/6613017912692\\/JcK1wuGi9let7LpW1BoIbOyH\",\"trigger_id\":\"6610561725426.6082676676561.aec6b64b56b67bac2c910ff0c27f96e0\"}"
+    },
+    "queryString": "",
+    "postData": {
+        "contents": "payload=%7B%22type%22%3A%22interactive_message%22%2C%22actions%22%3A%5B%7B%22name%22%3A%22jpn%22%2C%22type%22%3A%22button%22%2C%22value%22%3A%22stop%22%7D%5D%2C%22callback_id%22%3A%22callback_button%22%2C%22team%22%3A%7B%22id%22%3A%22T062EKWKWGH%22%2C%22domain%22%3A%22mizutani-labhq%22%7D%2C%22channel%22%3A%7B%22id%22%3A%22C0621TQAA67%22%2C%22name%22%3A%22random%22%7D%2C%22user%22%3A%7B%22id%22%3A%22U0621TQ84AX%22%2C%22name%22%3A%22taiga.mizutani829%22%7D%2C%22action_ts%22%3A%221707424543.552677%22%2C%22message_ts%22%3A%221707424541.002700%22%2C%22attachment_id%22%3A%221%22%2C%22token%22%3A%22sqamGyFeX3wGDO8hd1xz24Tc%22%2C%22is_app_unfurl%22%3Afalse%2C%22enterprise%22%3Anull%2C%22is_enterprise_install%22%3Afalse%2C%22response_url%22%3A%22https%3A%5C%2F%5C%2Fhooks.slack.com%5C%2Factions%5C%2FT062EKWKWGH%5C%2F6613017912692%5C%2FJcK1wuGi9let7LpW1BoIbOyH%22%2C%22trigger_id%22%3A%226610561725426.6082676676561.aec6b64b56b67bac2c910ff0c27f96e0%22%7D",
+        "length": 956,
+        "name": "postData",
+        "type": "application/x-www-form-urlencoded"
+    },
+    "parameters": {
+        "payload": [
+            "{\"type\":\"interactive_message\",\"actions\":[{\"name\":\"jpn\",\"type\":\"button\",\"value\":\"stop\"}],\"callback_id\":\"callback_button\",\"team\":{\"id\":\"T062EKWKWGH\",\"domain\":\"mizutani-labhq\"},\"channel\":{\"id\":\"C0621TQAA67\",\"name\":\"random\"},\"user\":{\"id\":\"U0621TQ84AX\",\"name\":\"taiga.mizutani829\"},\"action_ts\":\"1707424543.552677\",\"message_ts\":\"1707424541.002700\",\"attachment_id\":\"1\",\"token\":\"sqamGyFeX3wGDO8hd1xz24Tc\",\"is_app_unfurl\":false,\"enterprise\":null,\"is_enterprise_install\":false,\"response_url\":\"https:\\/\\/hooks.slack.com\\/actions\\/T062EKWKWGH\\/6613017912692\\/JcK1wuGi9let7LpW1BoIbOyH\",\"trigger_id\":\"6610561725426.6082676676561.aec6b64b56b67bac2c910ff0c27f96e0\"}"
+        ]
+    },
+    "contentLength": 956,
+    "contextPath": ""
+}
+
+{
+    "postData": {
+        "contents": "payload=%7B%22type%22%3A%22block_actions%22%2C%22user%22%3A%7B%22id%22%3A%22U0621TQ84AX%22%2C%22username%22%3A%22taiga.mizutani829%22%2C%22name%22%3A%22taiga.mizutani829%22%2C%22team_id%22%3A%22T062EKWKWGH%22%7D%2C%22api_app_id%22%3A%22A069ZV7H620%22%2C%22token%22%3A%22sqamGyFeX3wGDO8hd1xz24Tc%22%2C%22container%22%3A%7B%22type%22%3A%22message_attachment%22%2C%22message_ts%22%3A%221707425690.003300%22%2C%22attachment_id%22%3A1%2C%22channel_id%22%3A%22C0621TQAA67%22%2C%22is_ephemeral%22%3Atrue%2C%22is_app_unfurl%22%3Afalse%7D%2C%22trigger_id%22%3A%226604030443862.6082676676561.f5f9c080c1cd4cfdbff670d7c53a46b3%22%2C%22team%22%3A%7B%22id%22%3A%22T062EKWKWGH%22%2C%22domain%22%3A%22mizutani-labhq%22%7D%2C%22enterprise%22%3Anull%2C%22is_enterprise_install%22%3Afalse%2C%22channel%22%3A%7B%22id%22%3A%22C0621TQAA67%22%2C%22name%22%3A%22random%22%7D%2C%22state%22%3A%7B%22values%22%3A%7B%22QdBOB%22%3A%7B%22datepicker-action%22%3A%7B%22type%22%3A%22datepicker%22%2C%22selected_date%22%3A%221990-04-28%22%7D%7D%2C%22sU%2BvD%22%3A%7B%22actionId-0%22%3A%7B%22type%22%3A%22timepicker%22%2C%22selected_time%22%3A%2213%3A37%22%7D%7D%2C%22%5C%2FaI9R%22%3A%7B%22actionId-0%22%3A%7B%22type%22%3A%22timepicker%22%2C%22selected_time%22%3A%2213%3A37%22%7D%7D%7D%7D%2C%22response_url%22%3A%22https%3A%5C%2F%5C%2Fhooks.slack.com%5C%2Factions%5C%2FT062EKWKWGH%5C%2F6596107512823%5C%2FQTIXhjOJirwUkIKI48AzXpPh%22%2C%22actions%22%3A%5B%7B%22action_id%22%3A%22actionId-1%22%2C%22block_id%22%3A%22sU%2BvD%22%2C%22text%22%3A%7B%22type%22%3A%22plain_text%22%2C%22text%22%3A%22Start+working%22%2C%22emoji%22%3Atrue%7D%2C%22value%22%3A%22click_me_123%22%2C%22type%22%3A%22button%22%2C%22action_ts%22%3A%221707425694.008033%22%7D%5D%7D",
+        "length": 1712,
+        "name": "postData",
+        "type": "application/x-www-form-urlencoded"
+    },
+    "contentLength": 1712,
+    "contextPath": "",
+    "parameter": {
+        "payload": "{\"type\":\"block_actions\",\"user\":{\"id\":\"U0621TQ84AX\",\"username\":\"taiga.mizutani829\",\"name\":\"taiga.mizutani829\",\"team_id\":\"T062EKWKWGH\"},\"api_app_id\":\"A069ZV7H620\",\"token\":\"sqamGyFeX3wGDO8hd1xz24Tc\",\"container\":{\"type\":\"message_attachment\",\"message_ts\":\"1707425690.003300\",\"attachment_id\":1,\"channel_id\":\"C0621TQAA67\",\"is_ephemeral\":true,\"is_app_unfurl\":false},\"trigger_id\":\"6604030443862.6082676676561.f5f9c080c1cd4cfdbff670d7c53a46b3\",\"team\":{\"id\":\"T062EKWKWGH\",\"domain\":\"mizutani-labhq\"},\"enterprise\":null,\"is_enterprise_install\":false,\"channel\":{\"id\":\"C0621TQAA67\",\"name\":\"random\"},\"state\":{\"values\":{\"QdBOB\":{\"datepicker-action\":{\"type\":\"datepicker\",\"selected_date\":\"1990-04-28\"}},\"sU+vD\":{\"actionId-0\":{\"type\":\"timepicker\",\"selected_time\":\"13:37\"}},\"\\/aI9R\":{\"actionId-0\":{\"type\":\"timepicker\",\"selected_time\":\"13:37\"}}}},\"response_url\":\"https:\\/\\/hooks.slack.com\\/actions\\/T062EKWKWGH\\/6596107512823\\/QTIXhjOJirwUkIKI48AzXpPh\",\"actions\":[{\"action_id\":\"actionId-1\",\"block_id\":\"sU+vD\",\"text\":{\"type\":\"plain_text\",\"text\":\"Start working\",\"emoji\":true},\"value\":\"click_me_123\",\"type\":\"button\",\"action_ts\":\"1707425694.008033\"}]}"
+    },
+    "parameters": {
+        "payload": [
+            "{\"type\":\"block_actions\",\"user\":{\"id\":\"U0621TQ84AX\",\"username\":\"taiga.mizutani829\",\"name\":\"taiga.mizutani829\",\"team_id\":\"T062EKWKWGH\"},\"api_app_id\":\"A069ZV7H620\",\"token\":\"sqamGyFeX3wGDO8hd1xz24Tc\",\"container\":{\"type\":\"message_attachment\",\"message_ts\":\"1707425690.003300\",\"attachment_id\":1,\"channel_id\":\"C0621TQAA67\",\"is_ephemeral\":true,\"is_app_unfurl\":false},\"trigger_id\":\"6604030443862.6082676676561.f5f9c080c1cd4cfdbff670d7c53a46b3\",\"team\":{\"id\":\"T062EKWKWGH\",\"domain\":\"mizutani-labhq\"},\"enterprise\":null,\"is_enterprise_install\":false,\"channel\":{\"id\":\"C0621TQAA67\",\"name\":\"random\"},\"state\":{\"values\":{\"QdBOB\":{\"datepicker-action\":{\"type\":\"datepicker\",\"selected_date\":\"1990-04-28\"}},\"sU+vD\":{\"actionId-0\":{\"type\":\"timepicker\",\"selected_time\":\"13:37\"}},\"\\/aI9R\":{\"actionId-0\":{\"type\":\"timepicker\",\"selected_time\":\"13:37\"}}}},\"response_url\":\"https:\\/\\/hooks.slack.com\\/actions\\/T062EKWKWGH\\/6596107512823\\/QTIXhjOJirwUkIKI48AzXpPh\",\"actions\":[{\"action_id\":\"actionId-1\",\"block_id\":\"sU+vD\",\"text\":{\"type\":\"plain_text\",\"text\":\"Start working\",\"emoji\":true},\"value\":\"click_me_123\",\"type\":\"button\",\"action_ts\":\"1707425694.008033\"}]}"
+        ]
+    },
+    "queryString": ""
+}
